@@ -43,7 +43,7 @@ The folder `lean/` carries the theorem source this implementation is based on.
 
 The code mirrors those roles:
 
-- `policy.py`: witness-pair extraction, empirical MEDIM lower bound, local/global obstruction logic
+- `policy.py`: witness-pair extraction, empirical detector-state antichain lower bound, local/global obstruction logic
 - `ambiguity.py`: clarification-budget bounds, unrestricted benchmark, restricted-family upper bounds
 - `pipeline.py`: detector pass that composes the two sides into one report
 
